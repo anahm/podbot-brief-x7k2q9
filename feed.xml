@@ -6,7 +6,7 @@
   <atom:link href="https://anahm.github.io/podbot-brief-x7k2q9/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Ali's personalized brief: Raindrop saves and the alphaXiv reading list (earlier episodes also covered AI research on X and Hacker News).</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 01 Nov 2026 17:17:32 -0800</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 04:52:14 -0800</lastBuildDate>
   <itunes:author>PodBot</itunes:author>
   <itunes:owner><itunes:name>PodBot</itunes:name></itunes:owner>
   <itunes:image href="https://anahm.github.io/podbot-brief-x7k2q9/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:block>Yes</itunes:block>
+  <item>
+    <title>Friday, November 6, 2026</title>
+    <guid isPermaLink="false">podbot-brief-2026-11-06</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 -0800</pubDate>
+    <enclosure url="https://github.com/anahm/podbot-brief-x7k2q9/releases/download/ep-2026-11-06/2026-11-06.mp3" length="6268364" type="audio/mpeg"/>
+    <itunes:duration>00:08:42</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <description><![CDATA[<h3>Your saved reads (Raindrop)</h3><ul><li><a href="https://research.socialcapital.com/p/the-ai-stack?utm_source=linkedin&amp;utm_medium=social&amp;utm_content=202611041724-text-post&amp;utm_term=chamath">Deep Dive: Where Value Accrues in the AI Stack</a></li><li><a href="https://research.socialcapital.com/p/the-ai-stack?utm_source=linkedin&amp;utm_medium=social&amp;utm_content=202611041724-text-post&amp;utm_term=chamath">Deep Dive: Where Value Accrues in the AI Stack</a></li><li><a href="https://www.trajectory.ai/field-notes/you-only-rollout-once">You Only Rollout Once</a></li><li><a href="https://www.trajectory.ai/field-notes/continual-grading">Continual Grading</a></li><li><a href="https://pershingsquareinc.com/wp-content/uploads/2026/11/Q3-26-PS-Inc-Letter-to-Shareholders.pdf">Q PS Inc Letter to Shareholders</a></li><li><a href="https://dashboard.interconnects.ai/">Open Models Dashboard</a></li><li><a href="https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history">North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History | TRM Labs</a></li></ul><h3>Papers you&#x27;re reading (alphaXiv)</h3><h3>AI research on X</h3><h3>Hacker News</h3>]]></description>
+    <content:encoded><![CDATA[<h3>Your saved reads (Raindrop)</h3><ul><li><a href="https://research.socialcapital.com/p/the-ai-stack?utm_source=linkedin&amp;utm_medium=social&amp;utm_content=202611041724-text-post&amp;utm_term=chamath">Deep Dive: Where Value Accrues in the AI Stack</a></li><li><a href="https://research.socialcapital.com/p/the-ai-stack?utm_source=linkedin&amp;utm_medium=social&amp;utm_content=202611041724-text-post&amp;utm_term=chamath">Deep Dive: Where Value Accrues in the AI Stack</a></li><li><a href="https://www.trajectory.ai/field-notes/you-only-rollout-once">You Only Rollout Once</a></li><li><a href="https://www.trajectory.ai/field-notes/continual-grading">Continual Grading</a></li><li><a href="https://pershingsquareinc.com/wp-content/uploads/2026/11/Q3-26-PS-Inc-Letter-to-Shareholders.pdf">Q PS Inc Letter to Shareholders</a></li><li><a href="https://dashboard.interconnects.ai/">Open Models Dashboard</a></li><li><a href="https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history">North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History | TRM Labs</a></li></ul><h3>Papers you&#x27;re reading (alphaXiv)</h3><h3>AI research on X</h3><h3>Hacker News</h3>]]></content:encoded>
+  </item>
   <item>
     <title>Friday, October 30, 2026</title>
     <guid isPermaLink="false">podbot-brief-2026-10-30</guid>
