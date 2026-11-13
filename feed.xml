@@ -6,7 +6,7 @@
   <atom:link href="https://anahm.github.io/podbot-brief-x7k2q9/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Ali's personalized brief: Raindrop saves and the alphaXiv reading list (earlier episodes also covered AI research on X and Hacker News).</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 06 Nov 2026 04:52:14 -0800</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 04:54:08 -0800</lastBuildDate>
   <itunes:author>PodBot</itunes:author>
   <itunes:owner><itunes:name>PodBot</itunes:name></itunes:owner>
   <itunes:image href="https://anahm.github.io/podbot-brief-x7k2q9/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:block>Yes</itunes:block>
+  <item>
+    <title>Friday, November 13, 2026</title>
+    <guid isPermaLink="false">podbot-brief-2026-11-13</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 -0800</pubDate>
+    <enclosure url="https://github.com/anahm/podbot-brief-x7k2q9/releases/download/ep-2026-11-13/2026-11-13.mp3" length="8698796" type="audio/mpeg"/>
+    <itunes:duration>00:12:05</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <description><![CDATA[<h3>Your saved reads (Raindrop)</h3><ul><li><a href="https://safeguards.anthropic.com/2026/automated-red-teaming/">Strengthening our safeguards with frontier automated red-teaming</a></li><li><a href="https://safeguards.anthropic.com/2026/automated-red-teaming/">Strengthening our safeguards with frontier automated red-teaming</a></li><li><a href="https://jack-clark.net/">Import AI</a></li><li><a href="https://spacesheep.dev/@yaroslavvb/small-models-showdown">small-models-showdown — spacesheep</a></li><li><a href="https://openathena.ai/blog/marin-535b-architecture/">Architecture Decisions for Marin 535B-A23B</a></li><li><a href="https://www.netroadshow.com/custom/IPO/Anthropic/retail/agenda.html">Agenda</a></li><li><a href="https://research.nvidia.com/labs/srl/projects/astranomy/index.html?utm_source=chatgpt.com#tool-call">Astranomy: An Empirical Study of GPT-6 Astra as a native robot policy</a></li><li><a href="https://thinkingmachines.ai/news/inkling-2-small/">Introducing Inkling 2 Small</a></li><li><a href="https://huggingface.co/spaces/huggingface/moe-blogpost">The Ultimate MoE Training Handbook</a></li><li><a href="https://alexwang.ai/talks/associative-memory/#1">Associative memory</a></li></ul><h3>Papers you&#x27;re reading (alphaXiv)</h3><h3>AI research on X</h3><h3>Hacker News</h3>]]></description>
+    <content:encoded><![CDATA[<h3>Your saved reads (Raindrop)</h3><ul><li><a href="https://safeguards.anthropic.com/2026/automated-red-teaming/">Strengthening our safeguards with frontier automated red-teaming</a></li><li><a href="https://safeguards.anthropic.com/2026/automated-red-teaming/">Strengthening our safeguards with frontier automated red-teaming</a></li><li><a href="https://jack-clark.net/">Import AI</a></li><li><a href="https://spacesheep.dev/@yaroslavvb/small-models-showdown">small-models-showdown — spacesheep</a></li><li><a href="https://openathena.ai/blog/marin-535b-architecture/">Architecture Decisions for Marin 535B-A23B</a></li><li><a href="https://www.netroadshow.com/custom/IPO/Anthropic/retail/agenda.html">Agenda</a></li><li><a href="https://research.nvidia.com/labs/srl/projects/astranomy/index.html?utm_source=chatgpt.com#tool-call">Astranomy: An Empirical Study of GPT-6 Astra as a native robot policy</a></li><li><a href="https://thinkingmachines.ai/news/inkling-2-small/">Introducing Inkling 2 Small</a></li><li><a href="https://huggingface.co/spaces/huggingface/moe-blogpost">The Ultimate MoE Training Handbook</a></li><li><a href="https://alexwang.ai/talks/associative-memory/#1">Associative memory</a></li></ul><h3>Papers you&#x27;re reading (alphaXiv)</h3><h3>AI research on X</h3><h3>Hacker News</h3>]]></content:encoded>
+  </item>
   <item>
     <title>Friday, November 6, 2026</title>
     <guid isPermaLink="false">podbot-brief-2026-11-06</guid>
