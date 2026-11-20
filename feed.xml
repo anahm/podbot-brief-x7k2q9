@@ -6,7 +6,7 @@
   <atom:link href="https://anahm.github.io/podbot-brief-x7k2q9/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Ali's personalized brief: Raindrop saves and the alphaXiv reading list (earlier episodes also covered AI research on X and Hacker News).</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 13 Nov 2026 04:54:08 -0800</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 05:16:23 -0800</lastBuildDate>
   <itunes:author>PodBot</itunes:author>
   <itunes:owner><itunes:name>PodBot</itunes:name></itunes:owner>
   <itunes:image href="https://anahm.github.io/podbot-brief-x7k2q9/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:block>Yes</itunes:block>
+  <item>
+    <title>Friday, November 20, 2026</title>
+    <guid isPermaLink="false">podbot-brief-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 -0800</pubDate>
+    <enclosure url="https://github.com/anahm/podbot-brief-x7k2q9/releases/download/ep-2026-11-20/2026-11-20.mp3" length="9800108" type="audio/mpeg"/>
+    <itunes:duration>00:13:37</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <description><![CDATA[<h3>Your saved reads (Raindrop)</h3><ul><li><a href="https://ben.clavie.eu/posts/answer/#ragatouille-and-the-example-of-colbert">Questions &amp; Answer(s): thoughts and joining Answer.AI</a></li><li><a href="https://x.com/karpathy/status/1760388761349927356"># on technical accessibility</a></li><li><a href="https://github.com/okhat/blog/blob/main/2024.09.impact.md">blog/2024.09.impact.md at main · okhat/blog</a></li><li><a href="https://www.thecultureslop.com/turner-sun">Fred Turner in conversation with Jasmine Sun · Culture Slop</a></li><li><a href="https://www.secondchapter.co/articles/getyourguide-tao-tao">Tao Tao: the COO behind GetYourGuide’s global rise in travel</a></li><li><a href="https://www.silicondata.com/blog/hopper-ampere-gpu-rents-coreweave-repricing?utm_source=x&amp;utm_medium=social&amp;utm_campaign=hopper-repricing">Hopper and Ampere Rents vs CoreWeave&#x27;s 30–50% Repricing</a></li><li><a href="https://www.noahpinion.blog/p/bumbition">Bumbition</a></li><li><a href="https://www.dwarkesh.com/p/rsi">The avalanche that hit math is coming for AI development</a></li><li><a href="https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive">Why compute might get 10x more expensive in coming years</a></li><li><a href="https://colossus.com/article/venture-is-dead-again/">Venture is Dead (Again) - Colossus</a></li></ul><h3>Papers you&#x27;re reading (alphaXiv)</h3>]]></description>
+    <content:encoded><![CDATA[<h3>Your saved reads (Raindrop)</h3><ul><li><a href="https://ben.clavie.eu/posts/answer/#ragatouille-and-the-example-of-colbert">Questions &amp; Answer(s): thoughts and joining Answer.AI</a></li><li><a href="https://x.com/karpathy/status/1760388761349927356"># on technical accessibility</a></li><li><a href="https://github.com/okhat/blog/blob/main/2024.09.impact.md">blog/2024.09.impact.md at main · okhat/blog</a></li><li><a href="https://www.thecultureslop.com/turner-sun">Fred Turner in conversation with Jasmine Sun · Culture Slop</a></li><li><a href="https://www.secondchapter.co/articles/getyourguide-tao-tao">Tao Tao: the COO behind GetYourGuide’s global rise in travel</a></li><li><a href="https://www.silicondata.com/blog/hopper-ampere-gpu-rents-coreweave-repricing?utm_source=x&amp;utm_medium=social&amp;utm_campaign=hopper-repricing">Hopper and Ampere Rents vs CoreWeave&#x27;s 30–50% Repricing</a></li><li><a href="https://www.noahpinion.blog/p/bumbition">Bumbition</a></li><li><a href="https://www.dwarkesh.com/p/rsi">The avalanche that hit math is coming for AI development</a></li><li><a href="https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive">Why compute might get 10x more expensive in coming years</a></li><li><a href="https://colossus.com/article/venture-is-dead-again/">Venture is Dead (Again) - Colossus</a></li></ul><h3>Papers you&#x27;re reading (alphaXiv)</h3>]]></content:encoded>
+  </item>
   <item>
     <title>Friday, November 13, 2026</title>
     <guid isPermaLink="false">podbot-brief-2026-11-13</guid>
