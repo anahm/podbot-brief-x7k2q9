@@ -6,7 +6,7 @@
   <atom:link href="https://anahm.github.io/podbot-brief-x7k2q9/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Ali's personalized brief: Raindrop saves and the alphaXiv reading list (earlier episodes also covered AI research on X and Hacker News).</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 20 Nov 2026 05:16:23 -0800</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 04:49:01 -0800</lastBuildDate>
   <itunes:author>PodBot</itunes:author>
   <itunes:owner><itunes:name>PodBot</itunes:name></itunes:owner>
   <itunes:image href="https://anahm.github.io/podbot-brief-x7k2q9/cover.jpg"/>
@@ -14,6 +14,17 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:block>Yes</itunes:block>
+  <item>
+    <title>Friday, November 27, 2026</title>
+    <guid isPermaLink="false">podbot-brief-2026-11-27</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 -0800</pubDate>
+    <enclosure url="https://github.com/anahm/podbot-brief-x7k2q9/releases/download/ep-2026-11-27/2026-11-27.mp3" length="8516780" type="audio/mpeg"/>
+    <itunes:duration>00:11:50</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <description><![CDATA[<h3>Your saved reads (Raindrop)</h3><ul><li><a href="https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical">GPT 6.2 Astra Solves a Historical Mystery</a></li><li><a href="https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/">Reinforcement learning is supervised learning on optimized data</a></li><li><a href="https://www.beren.io/2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency/">How can LLM RL Work Despite Information-Theoretic Inefficiency</a></li><li><a href="https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html?smid=nytcore-ios-share">Looking for the Formula to Stop an Apocalypse</a></li><li><a href="https://leap.forecastingresearch.org/forecasts/ai-catastrophic-risk">Probability of a Global AI Catastrophe</a></li><li><a href="https://qlabs.sh/research/">The Generalization Problem – Q</a></li><li><a href="https://www.jefftk.com/p/contingency-planning-for-an-intelligence-explosion">Contingency Planning for an Intelligence Explosion</a></li><li><a href="https://michaelnotebook.com/dtd/">Notes on Differential Technological Development</a></li><li><a href="https://www.greene.sh/compression-and-intelligence/">Compression and Intelligence — Ryan Greene</a></li><li><a href="https://openai.com/index/research-acceleration-jagged-frontier/">Research acceleration: The jagged frontier</a></li><li><a href="https://www.alphaxiv.org/abs/2611.society-ai-scientists">A Society of AI Scientists</a></li></ul><h3>Papers you&#x27;re reading (alphaXiv)</h3>]]></description>
+    <content:encoded><![CDATA[<h3>Your saved reads (Raindrop)</h3><ul><li><a href="https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical">GPT 6.2 Astra Solves a Historical Mystery</a></li><li><a href="https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/">Reinforcement learning is supervised learning on optimized data</a></li><li><a href="https://www.beren.io/2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency/">How can LLM RL Work Despite Information-Theoretic Inefficiency</a></li><li><a href="https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html?smid=nytcore-ios-share">Looking for the Formula to Stop an Apocalypse</a></li><li><a href="https://leap.forecastingresearch.org/forecasts/ai-catastrophic-risk">Probability of a Global AI Catastrophe</a></li><li><a href="https://qlabs.sh/research/">The Generalization Problem – Q</a></li><li><a href="https://www.jefftk.com/p/contingency-planning-for-an-intelligence-explosion">Contingency Planning for an Intelligence Explosion</a></li><li><a href="https://michaelnotebook.com/dtd/">Notes on Differential Technological Development</a></li><li><a href="https://www.greene.sh/compression-and-intelligence/">Compression and Intelligence — Ryan Greene</a></li><li><a href="https://openai.com/index/research-acceleration-jagged-frontier/">Research acceleration: The jagged frontier</a></li><li><a href="https://www.alphaxiv.org/abs/2611.society-ai-scientists">A Society of AI Scientists</a></li></ul><h3>Papers you&#x27;re reading (alphaXiv)</h3>]]></content:encoded>
+  </item>
   <item>
     <title>Friday, November 20, 2026</title>
     <guid isPermaLink="false">podbot-brief-2026-11-20</guid>
